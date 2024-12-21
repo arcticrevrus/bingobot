@@ -3,4 +3,4 @@ include/
 lib/
 __pycache__/
 settings.cfg
-pyveng.cfg
+pyvenv.cfg
